@@ -1,1 +1,2 @@
-# Projekt_DP
+Bartosz Nowak
+Jakub Nowak
